@@ -27,7 +27,7 @@ async def chat_page(request : Request):
 
 
 chat_log=[{'role':'system',
-           'content':'You are a general AI Assistant, help the users with all their concerns and questions.'
+           'content':'You are a general AI Assistant, help the users with all their concerns and questions and also help the users with the movie related stuffs in all languages.'
            }]
 
 
